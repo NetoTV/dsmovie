@@ -8,8 +8,9 @@
 
 ![png1](github/Home.png)
 ![png2](github/Avaliacao.png)
+<div style="justify-content: center">
 ![png3](github/Avaliado.png)
-
+</div>
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
