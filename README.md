@@ -7,14 +7,8 @@
 ## :camera: Demonstração
 
 ![png1](github/Home.png)
-![png2](github/Login.png)
-![png3](github/Cadastro.png)
-![png4](github/Painel.png)
-![png5](github/Calendario.png)
-![png6](github/Evento.png)
-![png7](github/CalendarioEvento.png)
-![png8](github/EditarDados.png)
-![png9](github/FaleConosco.png)
+![png2](github/Avaliacao.png)
+![png3](github/Avaliado.png)
 
 ## :rocket: Tecnologias
 
