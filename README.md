@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto foi desenvolvido durante à [Semana Spring React](https://github.com/devsuperior/sds-dsmovie) realizada pela [escola de programação DevSuperior](https://devsuperior.com.br)
+Este projeto foi desenvolvido durante à [Semana Spring React](https://github.com/devsuperior/sds-dsmovie) realizada pela escola de programação [DevSuperior](https://devsuperior.com.br)
 
 ## ⚙ Acesso ao site
 
